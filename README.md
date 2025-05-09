@@ -28,6 +28,7 @@ This is the React-based frontend for the Open RAG (Retrieval-Augmented Generatio
 > npm start
 
 This will start the app on http://localhost:3000.
+
 ⚠️ Make sure the backend (FastAPI) is running on http://localhost:8000 or update the endpoint in the frontend if different.
 
 The page will reload when you make changes.\
