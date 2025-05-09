@@ -1,7 +1,7 @@
 # RAG Assistant Frontend
 
 This is the React-based frontend for the Open RAG (Retrieval-Augmented Generation) Assistant 
-[https://github.com/Stevencibambo/open-rag-assistant](Backend Repo), a conversational AI system powered by a local LLM (via Ollama) and FastAPI backend. The frontend allows users to ask questions in natural language and receive responses based on retrieved documents.
+[Backend Repo](https://github.com/Stevencibambo/open-rag-assistant), a conversational AI system powered by a local LLM (via Ollama) and FastAPI backend. The frontend allows users to ask questions in natural language and receive responses based on retrieved documents.
 
 ## 🚀 Features
 - Clean and responsive UI using Bootstrap
